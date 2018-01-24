@@ -1,9 +1,8 @@
-﻿<!doctype html>
-<html lang="en">
+﻿<!Doctype html>
+<html>
 <head>
 	<meta charset="utf-8">
 	<title>Markina Elena</title>
-	<script defer src="https://use.fontawesome.com/releases/v5.0.4/js/all.js"></script>
 </head>
 <body>
 	<h1>Маркина Елена</h1>
